@@ -1,7 +1,7 @@
-# Enhanced Infrastructure Financing Districts Program Mapping in California (Work-in-Progress)
+# Enhanced Infrastructure Financing Districts Program Mapping in California (Work-in-progress)
 This repository is an online map of the Enhanced Infrastructure Financing Districts (EIFD) in California.
 
-## Demo Version: https://wooserkpark.github.io/California_EIFD
+## Demo: https://wooserkpark.github.io/California_EIFD
 
 ## Data
 California local government reports. To enhance the potential of the EIFD program, Mark Polhemus, a former Place-Based Business and Economic Development Specialist at the California Governor's Office of Business and Economic Development, kindly provided information on this program.
